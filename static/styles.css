@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-primary-custom {
+    background-color: blue;
+    border-color: blue;
+}
+.btn-upload {
+    background-color: orange;
+    border-color: orange;
+}
